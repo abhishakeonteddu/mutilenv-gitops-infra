@@ -5,8 +5,8 @@
 #
 export AWS_PROFILE=default
 export PROJECT_NAME=multienv-infra
-export AWS_REGION=eu-west-3
-export GIT_REPO=git@github.com:jeromedecoster/gitops-multienv-infra.git
+export AWS_REGION=us-east-1
+export GIT_REPO=git@github.com:abhishakeonteddu/mutilenv-gitops-infra.git
 # the directory containing the script file
 export PROJECT_DIR="$(cd "$(dirname "$0")"; pwd)"
 
